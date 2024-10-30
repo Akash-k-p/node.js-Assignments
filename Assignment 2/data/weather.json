@@ -1032,5 +1032,43 @@
         "icon": "03d"
       }
     ]
+  },
+  {
+    "city": {
+      "id": 1261481,
+      "name": "Kochi",
+      "findname": "Kochi",
+      "country": "IN",
+      "coord": {
+        "lon": 88.363892,
+        "lat": 22.572645
+      },
+      "zoom": 10
+    },
+    "time": 1489487408,
+    "main": {
+      "temp": 305.15,
+      "temp_min": 305.15,
+      "temp_max": 305.15,
+      "pressure": 1007,
+      "sea_level": 1015,
+      "grnd_level": 1007,
+      "humidity": 60
+    },
+    "wind": {
+      "speed": 2.8,
+      "deg": 145
+    },
+    "clouds": {
+      "all": 25
+    },
+    "weather": [
+      {
+        "id": 802,
+        "main": "Clouds",
+        "description": "scattered clouds",
+        "icon": "03d"
+      }
+    ]
   }
 ]
