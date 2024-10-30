@@ -1,0 +1,1036 @@
+[
+  {
+    "city": {
+      "id": 3428577,
+      "name": "San Pedro",
+      "findname": "SAN PEDRO",
+      "country": "AR",
+      "coord": {
+        "lon": -54.108421,
+        "lat": -26.62207
+      },
+      "zoom": 14
+    },
+    "time": 1489487396,
+    "main": {
+      "temp": 288.234,
+      "temp_min": 288.234,
+      "temp_max": 288.234,
+      "pressure": 969.76,
+      "sea_level": 1027.41,
+      "grnd_level": 969.76,
+      "humidity": 67
+    },
+    "wind": {
+      "speed": 1.68,
+      "deg": 106.003
+    },
+    "clouds": {
+      "all": 0
+    },
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "Sky is Clear",
+        "icon": "01d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 147059,
+      "name": "Telmankend",
+      "findname": "TELMANKEND",
+      "country": "AZ",
+      "coord": {
+        "lon": 48.399021,
+        "lat": 39.87867
+      },
+      "zoom": 10
+    },
+    "time": 1489487396,
+    "main": {
+      "temp": 285.134,
+      "temp_min": 285.134,
+      "temp_max": 285.134,
+      "pressure": 1027.31,
+      "sea_level": 1028.46,
+      "grnd_level": 1027.31,
+      "humidity": 98
+    },
+    "wind": {
+      "speed": 2.13,
+      "deg": 334.503
+    },
+    "clouds": {
+      "all": 88
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 147425,
+      "name": "Neftcala",
+      "findname": "NEFTCALA",
+      "country": "AZ",
+      "coord": {
+        "lon": 49.247219,
+        "lat": 39.374168
+      },
+      "zoom": 8,
+      "langs": [
+        {
+          "ru": "Нефтечала"
+        }
+      ]
+    },
+    "time": 1489487396,
+    "main": {
+      "temp": 283.884,
+      "temp_min": 283.884,
+      "temp_max": 283.884,
+      "pressure": 1030.23,
+      "sea_level": 1028.54,
+      "grnd_level": 1030.23,
+      "humidity": 93
+    },
+    "wind": {
+      "speed": 1.63,
+      "deg": 322.003
+    },
+    "clouds": {
+      "all": 88
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 148340,
+      "name": "Pushkino",
+      "findname": "PUSHKINO",
+      "country": "AZ",
+      "coord": {
+        "lon": 48.544998,
+        "lat": 39.458328
+      },
+      "zoom": 10
+    },
+    "time": 1489487397,
+    "main": {
+      "temp": 285.134,
+      "temp_min": 285.134,
+      "temp_max": 285.134,
+      "pressure": 1027.31,
+      "sea_level": 1028.46,
+      "grnd_level": 1027.31,
+      "humidity": 98
+    },
+    "wind": {
+      "speed": 2.13,
+      "deg": 334.503
+    },
+    "clouds": {
+      "all": 88
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 2354349,
+      "name": "Titao",
+      "findname": "TITAO",
+      "country": "BF",
+      "coord": {
+        "lon": -2.06667,
+        "lat": 13.76667
+      },
+      "zoom": 9
+    },
+    "time": 1489487397,
+    "main": {
+      "temp": 304.584,
+      "temp_min": 304.584,
+      "temp_max": 304.584,
+      "pressure": 985.98,
+      "sea_level": 1023.72,
+      "grnd_level": 985.98,
+      "humidity": 19
+    },
+    "wind": {
+      "speed": 2.13,
+      "deg": 105.503
+    },
+    "clouds": {
+      "all": 0
+    },
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "Sky is Clear",
+        "icon": "01d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 3901501,
+      "name": "Villazon",
+      "findname": "VILLAZON",
+      "country": "BO",
+      "coord": {
+        "lon": -65.594223,
+        "lat": -22.08659
+      },
+      "zoom": 8,
+      "langs": [
+        {
+          "link": "http://en.wikipedia.org/wiki/Villaz%C3%B3n"
+        }
+      ]
+    },
+    "time": 1489487397,
+    "main": {
+      "temp": 275.484,
+      "temp_min": 275.484,
+      "temp_max": 275.484,
+      "pressure": 658.49,
+      "sea_level": 1025.91,
+      "grnd_level": 658.49,
+      "humidity": 87
+    },
+    "wind": {
+      "speed": 0.93,
+      "deg": 198.503
+    },
+    "clouds": {
+      "all": 48
+    },
+    "weather": [
+      {
+        "id": 802,
+        "main": "Clouds",
+        "description": "scattered clouds",
+        "icon": "03d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 203717,
+      "name": "Yangambi",
+      "findname": "YANGAMBI",
+      "country": "CD",
+      "coord": {
+        "lon": 24.43359,
+        "lat": 0.81021
+      },
+      "zoom": 8,
+      "langs": [
+        {
+          "link": "http://en.wikipedia.org/wiki/Yangambi"
+        }
+      ]
+    },
+    "time": 1489487398,
+    "main": {
+      "temp": 305.134,
+      "temp_min": 305.134,
+      "temp_max": 305.134,
+      "pressure": 971.47,
+      "sea_level": 1020.64,
+      "grnd_level": 971.47,
+      "humidity": 58
+    },
+    "wind": {
+      "speed": 2.03,
+      "deg": 241.503
+    },
+    "clouds": {
+      "all": 0
+    },
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "Sky is Clear",
+        "icon": "01d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 204283,
+      "name": "Watsa",
+      "findname": "WATSA",
+      "country": "CD",
+      "coord": {
+        "lon": 29.535509,
+        "lat": 3.03716
+      },
+      "zoom": 7,
+      "langs": [
+        {
+          "link": "http://en.wikipedia.org/wiki/Watsa"
+        }
+      ]
+    },
+    "time": 1489487398,
+    "main": {
+      "temp": 309.734,
+      "temp_min": 309.734,
+      "temp_max": 309.734,
+      "pressure": 921.78,
+      "sea_level": 1018.29,
+      "grnd_level": 921.78,
+      "humidity": 25
+    },
+    "wind": {
+      "speed": 1.83,
+      "deg": 133.003
+    },
+    "clouds": {
+      "all": 0
+    },
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "Sky is Clear",
+        "icon": "01d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 204318,
+      "name": "Wamba",
+      "findname": "WAMBA",
+      "country": "CD",
+      "coord": {
+        "lon": 27.994659,
+        "lat": 2.14838
+      },
+      "zoom": 8,
+      "langs": [
+        {
+          "link": "http://en.wikipedia.org/wiki/Wamba_Territory"
+        }
+      ]
+    },
+    "time": 1489487398,
+    "main": {
+      "temp": 308.034,
+      "temp_min": 308.034,
+      "temp_max": 308.034,
+      "pressure": 930.12,
+      "sea_level": 1018.81,
+      "grnd_level": 930.12,
+      "humidity": 32
+    },
+    "wind": {
+      "speed": 1.33,
+      "deg": 248.003
+    },
+    "clouds": {
+      "all": 0
+    },
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "Sky is Clear",
+        "icon": "01d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 210379,
+      "name": "Lusambo",
+      "findname": "LUSAMBO",
+      "country": "CD",
+      "coord": {
+        "lon": 23.450001,
+        "lat": -4.96667
+      },
+      "zoom": 8,
+      "langs": [
+        {
+          "ru": "Лусамбо"
+        }
+      ]
+    },
+    "time": 1489487399,
+    "main": {
+      "temp": 299.634,
+      "temp_min": 299.634,
+      "temp_max": 299.634,
+      "pressure": 963.44,
+      "sea_level": 1023.47,
+      "grnd_level": 963.44,
+      "humidity": 83
+    },
+    "wind": {
+      "speed": 1.33,
+      "deg": 280.503
+    },
+    "clouds": {
+      "all": 24
+    },
+    "weather": [
+      {
+        "id": 801,
+        "main": "Clouds",
+        "description": "few clouds",
+        "icon": "02d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 210939,
+      "name": "Luebo",
+      "findname": "LUEBO",
+      "country": "CD",
+      "coord": {
+        "lon": 21.41667,
+        "lat": -5.35
+      },
+      "zoom": 9,
+      "langs": [
+        {
+          "link": "http://en.wikipedia.org/wiki/Luebo"
+        }
+      ]
+    },
+    "time": 1489487399,
+    "main": {
+      "temp": 294.534,
+      "temp_min": 294.534,
+      "temp_max": 294.534,
+      "pressure": 964.58,
+      "sea_level": 1024.77,
+      "grnd_level": 964.58,
+      "humidity": 100
+    },
+    "wind": {
+      "speed": 1.18,
+      "deg": 98.0029
+    },
+    "clouds": {
+      "all": 88
+    },
+    "weather": [
+      {
+        "id": 502,
+        "main": "Rain",
+        "description": "heavy intensity rain",
+        "icon": "10d"
+      }
+    ],
+    "rain": "no"
+  },
+  {
+    "city": {
+      "id": 211098,
+      "name": "Lubao",
+      "findname": "LUBAO",
+      "country": "CD",
+      "coord": {
+        "lon": 25.75,
+        "lat": -5.36667
+      },
+      "zoom": 7
+    },
+    "time": 1489487399,
+    "main": {
+      "temp": 301.584,
+      "temp_min": 301.584,
+      "temp_max": 301.584,
+      "pressure": 953.06,
+      "sea_level": 1022.06,
+      "grnd_level": 953.06,
+      "humidity": 66
+    },
+    "wind": {
+      "speed": 2.53,
+      "deg": 271.003
+    },
+    "clouds": {
+      "all": 24
+    },
+    "weather": [
+      {
+        "id": 500,
+        "main": "Rain",
+        "description": "light rain",
+        "icon": "10d"
+      }
+    ],
+    "rain": "yes"
+  },
+  {
+    "city": {
+      "id": 214575,
+      "name": "Kampene",
+      "findname": "KAMPENE",
+      "country": "CD",
+      "coord": {
+        "lon": 26.66667,
+        "lat": -3.6
+      },
+      "zoom": 8
+    },
+    "time": 1489487400,
+    "main": {
+      "temp": 302.934,
+      "temp_min": 302.934,
+      "temp_max": 302.934,
+      "pressure": 942.2,
+      "sea_level": 1022.1,
+      "grnd_level": 942.2,
+      "humidity": 62
+    },
+    "wind": {
+      "speed": 2.63,
+      "deg": 255.003
+    },
+    "clouds": {
+      "all": 32
+    },
+    "weather": [
+      {
+        "id": 802,
+        "main": "Clouds",
+        "description": "scattered clouds",
+        "icon": "03d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 215527,
+      "name": "Kabinda",
+      "findname": "KABINDA",
+      "country": "CD",
+      "coord": {
+        "lon": 24.48333,
+        "lat": -6.13333
+      },
+      "zoom": 8
+    },
+    "time": 1489487400,
+    "main": {
+      "temp": 299.234,
+      "temp_min": 299.234,
+      "temp_max": 299.234,
+      "pressure": 939.77,
+      "sea_level": 1022.54,
+      "grnd_level": 939.77,
+      "humidity": 100
+    },
+    "wind": {
+      "speed": 2.48,
+      "deg": 225.003
+    },
+    "clouds": {
+      "all": 0
+    },
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "Sky is Clear",
+        "icon": "01d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 215605,
+      "name": "Kabare",
+      "findname": "KABARE",
+      "country": "CD",
+      "coord": {
+        "lon": 28.824169,
+        "lat": -2.46833
+      },
+      "zoom": 11
+    },
+    "time": 1489487400,
+    "main": {
+      "temp": 296.884,
+      "temp_min": 296.884,
+      "temp_max": 296.884,
+      "pressure": 822.96,
+      "sea_level": 1019.34,
+      "grnd_level": 822.96,
+      "humidity": 91
+    },
+    "wind": {
+      "speed": 1.23,
+      "deg": 88.5029
+    },
+    "clouds": {
+      "all": 0
+    },
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "Sky is Clear",
+        "icon": "01d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 217637,
+      "name": "Businga",
+      "findname": "BUSINGA",
+      "country": "CD",
+      "coord": {
+        "lon": 20.883329,
+        "lat": 3.33333
+      },
+      "zoom": 8
+    },
+    "time": 1489487401,
+    "main": {
+      "temp": 309.114,
+      "temp_min": 309.114,
+      "temp_max": 309.114,
+      "pressure": 968.1,
+      "sea_level": 1017.84,
+      "grnd_level": 968.1,
+      "humidity": 44
+    },
+    "wind": {
+      "speed": 1.56,
+      "deg": 272.001
+    },
+    "clouds": {
+      "all": 12
+    },
+    "weather": [
+      {
+        "id": 801,
+        "main": "Clouds",
+        "description": "few clouds",
+        "icon": "02d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 2311968,
+      "name": "Nioki",
+      "findname": "NIOKI",
+      "country": "CD",
+      "coord": {
+        "lon": 17.683331,
+        "lat": -2.71667
+      },
+      "zoom": 8
+    },
+    "time": 1489487401,
+    "main": {
+      "temp": 301.314,
+      "temp_min": 301.314,
+      "temp_max": 301.314,
+      "pressure": 985.28,
+      "sea_level": 1021.12,
+      "grnd_level": 985.28,
+      "humidity": 86
+    },
+    "wind": {
+      "speed": 1.71,
+      "deg": 203.501
+    },
+    "clouds": {
+      "all": 44
+    },
+    "weather": [
+      {
+        "id": 501,
+        "main": "Rain",
+        "description": "moderate rain",
+        "icon": "10d"
+      }
+    ],
+    "rain": "yes"
+  },
+  {
+    "city": {
+      "id": 2312249,
+      "name": "Mushie",
+      "findname": "MUSHIE",
+      "country": "CD",
+      "coord": {
+        "lon": 16.9,
+        "lat": -3.01667
+      },
+      "zoom": 9
+    },
+    "time": 1489487402,
+    "main": {
+      "temp": 301.864,
+      "temp_min": 301.864,
+      "temp_max": 301.864,
+      "pressure": 986.9,
+      "sea_level": 1020.8,
+      "grnd_level": 986.9,
+      "humidity": 86
+    },
+    "wind": {
+      "speed": 1.51,
+      "deg": 211.501
+    },
+    "clouds": {
+      "all": 32
+    },
+    "weather": [
+      {
+        "id": 501,
+        "main": "Rain",
+        "description": "moderate rain",
+        "icon": "10d"
+      }
+    ],
+    "rain": "yes"
+  },
+  {
+    "city": {
+      "id": 2313084,
+      "name": "Mangai",
+      "findname": "MANGAI",
+      "country": "CD",
+      "coord": {
+        "lon": 19.533331,
+        "lat": -4.05
+      },
+      "zoom": 8
+    },
+    "time": 1489487402,
+    "main": {
+      "temp": 295.214,
+      "temp_min": 295.214,
+      "temp_max": 295.214,
+      "pressure": 979.36,
+      "sea_level": 1023.07,
+      "grnd_level": 979.36,
+      "humidity": 100
+    },
+    "wind": {
+      "speed": 1.06,
+      "deg": 192.001
+    },
+    "clouds": {
+      "all": 92
+    },
+    "weather": [
+      {
+        "id": 501,
+        "main": "Rain",
+        "description": "moderate rain",
+        "icon": "10d"
+      }
+    ],
+    "rain": "yes"
+  },
+  {
+    "city": {
+      "id": 2280376,
+      "name": "Touba",
+      "findname": "TOUBA",
+      "country": "CI",
+      "coord": {
+        "lon": -7.68333,
+        "lat": 8.28333
+      },
+      "zoom": 8,
+      "langs": [
+        {
+          "link": "http://en.wikipedia.org/wiki/Touba%2C_C%C3%B4te_d%27Ivoire"
+        }
+      ]
+    },
+    "time": 1489487402,
+    "main": {
+      "temp": 304.064,
+      "temp_min": 304.064,
+      "temp_max": 304.064,
+      "pressure": 967.93,
+      "sea_level": 1023.68,
+      "grnd_level": 967.93,
+      "humidity": 69
+    },
+    "wind": {
+      "speed": 2.41,
+      "deg": 195.001
+    },
+    "clouds": {
+      "all": 8
+    },
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "sky is clear",
+        "icon": "02d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 1273294,
+      "name": "Delhi",
+      "findname": "DELHI",
+      "country": "IN",
+      "coord": {
+        "lon": 77.216721,
+        "lat": 28.666668
+      },
+      "zoom": 10
+    },
+    "time": 1489487402,
+    "main": {
+      "temp": 310.15,
+      "temp_min": 310.15,
+      "temp_max": 310.15,
+      "pressure": 1005,
+      "sea_level": 1013,
+      "grnd_level": 1005,
+      "humidity": 30
+    },
+    "wind": {
+      "speed": 4.1,
+      "deg": 140
+    },
+    "clouds": {
+      "all": 10
+    },
+    "weather": [
+      {
+        "id": 801,
+        "main": "Clouds",
+        "description": "few clouds",
+        "icon": "02d"
+      }
+    ],
+    "rain": "no"
+  },
+  {
+    "city": {
+      "id": 1269515,
+      "name": "Jaipur",
+      "findname": "JAIPUR",
+      "country": "IN",
+      "coord": {
+        "lon": 75.816666,
+        "lat": 26.916668
+      },
+      "zoom": 10
+    },
+    "time": 1489487404,
+    "main": {
+      "temp": 306.25,
+      "temp_min": 306.25,
+      "temp_max": 306.25,
+      "pressure": 1002,
+      "sea_level": 1010,
+      "grnd_level": 1002,
+      "humidity": 40
+    },
+    "wind": {
+      "speed": 2.6,
+      "deg": 150
+    },
+    "clouds": {
+      "all": 5
+    },
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "clear sky",
+        "icon": "01d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 1277333,
+      "name": "Bangalore",
+      "findname": "BANGALORE",
+      "country": "IN",
+      "coord": {
+        "lon": 77.603287,
+        "lat": 12.97623
+      },
+      "zoom": 10
+    },
+    "time": 1489487405,
+    "main": {
+      "temp": 297.15,
+      "temp_min": 297.15,
+      "temp_max": 297.15,
+      "pressure": 1010,
+      "sea_level": 1018,
+      "grnd_level": 1010,
+      "humidity": 77
+    },
+    "wind": {
+      "speed": 1.5,
+      "deg": 120
+    },
+    "clouds": {
+      "all": 40
+    },
+    "weather": [
+      {
+        "id": 802,
+        "main": "Clouds",
+        "description": "scattered clouds",
+        "icon": "03d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 1275339,
+      "name": "Mumbai",
+      "findname": "MUMBAI",
+      "country": "IN",
+      "coord": {
+        "lon": 72.847939,
+        "lat": 19.01441
+      },
+      "zoom": 10
+    },
+    "time": 1489487406,
+    "main": {
+      "temp": 303.15,
+      "temp_min": 303.15,
+      "temp_max": 303.15,
+      "pressure": 1008,
+      "sea_level": 1016,
+      "grnd_level": 1008,
+      "humidity": 70
+    },
+    "wind": {
+      "speed": 3.1,
+      "deg": 240
+    },
+    "clouds": {
+      "all": 75
+    },
+    "weather": [
+      {
+        "id": 803,
+        "main": "Clouds",
+        "description": "broken clouds",
+        "icon": "04d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 1275004,
+      "name": "Lucknow",
+      "findname": "LUCKNOW",
+      "country": "IN",
+      "coord": {
+        "lon": 80.916664,
+        "lat": 26.85
+      },
+      "zoom": 10
+    },
+    "time": 1489487407,
+    "main": {
+      "temp": 308.15,
+      "temp_min": 308.15,
+      "temp_max": 308.15,
+      "pressure": 1006,
+      "sea_level": 1014,
+      "grnd_level": 1006,
+      "humidity": 45
+    },
+    "wind": {
+      "speed": 2.2,
+      "deg": 135
+    },
+    "clouds": {
+      "all": 20
+    },
+    "weather": [
+      {
+        "id": 802,
+        "main": "Clouds",
+        "description": "scattered clouds",
+        "icon": "03d"
+      }
+    ]
+  },
+  {
+    "city": {
+      "id": 1261481,
+      "name": "Kolkata",
+      "findname": "KOLKATA",
+      "country": "IN",
+      "coord": {
+        "lon": 88.363892,
+        "lat": 22.572645
+      },
+      "zoom": 10
+    },
+    "time": 1489487408,
+    "main": {
+      "temp": 305.15,
+      "temp_min": 305.15,
+      "temp_max": 305.15,
+      "pressure": 1007,
+      "sea_level": 1015,
+      "grnd_level": 1007,
+      "humidity": 60
+    },
+    "wind": {
+      "speed": 2.8,
+      "deg": 145
+    },
+    "clouds": {
+      "all": 25
+    },
+    "weather": [
+      {
+        "id": 802,
+        "main": "Clouds",
+        "description": "scattered clouds",
+        "icon": "03d"
+      }
+    ]
+  }
+]
