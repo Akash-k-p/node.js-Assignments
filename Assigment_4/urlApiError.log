@@ -1,0 +1,3 @@
+{"level":"error","message":"Failed to fetch URL details error:Cast to ObjectId failed for value \"672a5716afccbd556339fac\" (type string) at path \"_id\" for model \"Url\"","timestamp":"2024-11-07T12:09:10.247Z"}
+{"level":"error","message":"Failed to fetch URL details error:Cast to ObjectId failed for value \"672a5716afccbd556339fac\" (type string) at path \"_id\" for model \"Url\"","timestamp":"2024-11-07T12:42:54.155Z"}
+{"level":"error","message":"Failed to fetch URL details error:Cast to ObjectId failed for value \"672a5716afccbd556339fac\" (type string) at path \"_id\" for model \"Url\"","timestamp":"2024-11-07T13:04:44.411Z"}
