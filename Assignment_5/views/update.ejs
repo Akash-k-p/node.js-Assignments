@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+</style>
+</head>
+<body>
+
+<h2>Update Employee</h2>
+
+<form action="/web/employees/update" method="post">
+  <div class="container">
+    <input type="hidden" name="id" value="<%= employee._id %>">
+
+    <label for="fname"><b>First Name</b></label>
+    <input type="text" placeholder="Enter First Name" value=<%= employee.first_name%> name="first_name" >
+
+    <label for="lname"><b>Last Name</b></label>
+    <input type="text" placeholder="Enter Last Name" value=<%= employee.last_name%> name="last_name" >
+
+    <label for="email"><b>Email</b></label>
+    <input type="text" placeholder="Enter Email" value=<%= employee.email%> name="email">
+
+    <button type="submit">Update</button>
+  </div>
+</form>
+
+<script>
+
+</script>
+
+</body>
+</html>
